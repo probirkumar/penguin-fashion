@@ -1,0 +1,8 @@
+{
+          "editor.tabCompletion": "on",
+          "editor.tabSize": 10,
+          "terminal.integrated.tabStopWidth": 18,
+          "emmet.triggerExpansionOnTab": false,
+          "editor.tabFocusMode": false,
+          "workbench.editor.highlightModifiedTabs": false
+}
